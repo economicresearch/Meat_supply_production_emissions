@@ -1,4 +1,4 @@
-# Livestock demand, production, and emissions trends
+# Meat supply, production, and emissions trends
 
 This repository reproduces the figure showing global trends in animal-source food demand, livestock production, and livestock-related greenhouse gas emissions associated with meat production.
 
